@@ -1,0 +1,7 @@
+开发语言：JAVA
+
+开发框架：SSM（SpringMVC（Control） +Spring（组件管理） +Mybatis（持久化层）
+
+开发工具：IDEA
+
+数据库：Mysql+NaviteSQLTOOLS
