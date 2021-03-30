@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2021-03-30T08:26:18.009Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.57" etag="2U-2bMoUyiGLDMIdWC6K" version="14.5.3" type="github"><diagram id="dqepj6lAXTFUh9c6wGy7" name="Page-1">1VjbcpswEP0aPbYT7uIRsN10Op1m4s60eVRANZoB5Ag5tvP1XYG4k6ZJnTh9yeyuLkhnzzmGICvKD58E2aZfeUIzZF4kB2QtkGliF8NfVTjWBRubdWEjWFKXjK6wZg9UFy90dccSWg4mSs4zybbDYsyLgsZyUCNC8P1w2i+eDZ+6JRs6Kaxjkk2rP1giU30t0+vql5Rt0ubJhuvXIzlpJuublClJ+L5XspbIigTnso7yQ0QzhV2DS71u9choezBBC/k3C3Lj+31iXl594d/ursX6Ogo/333Qzbgn2U5fGC19FPgoXDaBi5YO8g3kYxVgCCK0xChcoKAawh4KgypwUODou8pjA6DguyKh6gwXyAr3KZN0vSWxGt0DY6CWyjyDzIBQn4YKSQ+PXtNowQPSUZ5TKY4wpVnQ4K0J5+l033WvnZL2OufqGtGE2bQ7d5hCoGF9BsTWFOIxRrRIAsVVyOKMlCWLh7DQA5M/FYIfHZ3d9EYWBw1ulRx1Uj+EJhN6j4CEg/CdiOlTJJkC3kPUmQG0qQmaEcnuh8eYQ1k/4YozOGDbT8sf9tPEo0bVx9er+vwfbWTg4UbGeCNJxIbKyUZV09trv5wH9ozUXCUsbFfqsRBeqSCwUWgrhQUrhGuFQRz2NOch7CMcTaWW8vx2V55FZi2aT+lsjPrJdObO4guYAoEAMgVrUIEYVGhCGipAVYARXlRzIu1psATjs1uZZY8w9s/tZd7pvMzoOVnna6/uZfa78jLvhV42Zkb7kvFGXoZntAY6WqHAqERnKPN6hrJAI3JIE5KxTaE4BB2mAgpKSQzeywI9kLMkUctDQUv2QG6rrRRZturSFQxOiJyF2msneVm/WZ5ImS0h/qBMPMOjcZtOJkx/piF+9bJmqcD3VCsA/jBCcK66D9Ciczvc+FfEMs7tcM0B3vp1DQATx94ild70x7plVfZa1gifV5V1PMW1/95C7TNbqDH36TX10PdlnYJLaB4vBuT7NwcwHulnj07uaZwU0u5ru25j9y8La/kb</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-30T08:35:13.579Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.57" etag="pHlclxhvBXsozDRRtp8Y" version="14.5.3" type="github">
+  <diagram id="dqepj6lAXTFUh9c6wGy7" name="Page-1">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="m1Tvd2HPKoOqRrSRCBIq-2" value="进场停车" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m1Tvd2HPKoOqRrSRCBIq-3" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="m1Tvd2HPKoOqRrSRCBIq-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="280" as="sourcePoint" />
+            <mxPoint x="180" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m1Tvd2HPKoOqRrSRCBIq-4" value="摄像头识别车牌" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="180" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="m1Tvd2HPKoOqRrSRCBIq-6" value="提示需登录系统补全信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m1Tvd2HPKoOqRrSRCBIq-7" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="m1Tvd2HPKoOqRrSRCBIq-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="270" as="sourcePoint" />
+            <mxPoint x="340" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m1Tvd2HPKoOqRrSRCBIq-8" value="信息不符合" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="190" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="m1Tvd2HPKoOqRrSRCBIq-9" value="停车场道闸开启" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m1Tvd2HPKoOqRrSRCBIq-10" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="m1Tvd2HPKoOqRrSRCBIq-4" target="m1Tvd2HPKoOqRrSRCBIq-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="270" as="sourcePoint" />
+            <mxPoint x="440" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m1Tvd2HPKoOqRrSRCBIq-12" value="信息符合" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="110" y="270" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1nXSoRbsaHrul4W_OXLV-1" value="引导驾驶员返回入口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1nXSoRbsaHrul4W_OXLV-2" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="m1Tvd2HPKoOqRrSRCBIq-6" target="1nXSoRbsaHrul4W_OXLV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="280" as="sourcePoint" />
+            <mxPoint x="440" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1nXSoRbsaHrul4W_OXLV-3" value="车辆进入停车位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1nXSoRbsaHrul4W_OXLV-4" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="m1Tvd2HPKoOqRrSRCBIq-9" target="1nXSoRbsaHrul4W_OXLV-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="300" as="sourcePoint" />
+            <mxPoint x="440" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
